@@ -20,6 +20,9 @@ Worked on a time-series machine learning project with a Non-Disclosure Agreement
 ### Implementation of NoSQL Databases in the Food Delivery Business
 For the final project for Fundamentals of Data Engineering, we presented the use case of implementing NoSQL databases in the food delivery industry. We highlighted the benefits of incorporating tools such as Redis and MongoDB over traditional databases and we showcased Neo4J algorithms, such as Louvain Modularity, to demonstrate how it can help plan future delivery routes. [LINK](https://www.ischool.berkeley.edu/projects/2023/implementation-nosql-acme-gourmet-meals)
 
+### [Electric Bike Station Mix and Ridership Revenue Performance](https://www.ischool.berkeley.edu/projects/2023/implementation-nosql-acme-gourmet-meals)
+Over the course of several weeks, we explored the relationship between the number of traditional vs. E-Bikes in CitiBike Stations across NYC and how they impact revenue per ride. Utilizing R, we designed a linear regression model to understand this relationship and observed that a station that boosted its electric bike availability from an average of 20% to 25%, might see an approx. 5-6% increase in per-ride revenue.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
