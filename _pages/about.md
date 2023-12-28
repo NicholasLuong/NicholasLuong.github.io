@@ -12,6 +12,13 @@ Hi! My name is Nick Luong and I am an aspiring Data Scientist eager to learn. I 
 
 My strengths lie in my ability to adapt quickly, from working at a major financial institution to doing analytics in a series B mental healthcare startup. I never shy away from trying new technologies or working to become a subject expert in new domains. Feel free to reach out and I would love to share with you about my experience!
 
+Some of my highlighted experiences:
+======
+### Predicting Lifetime Value of Users using Machine Learning
+Worked on a time-series machine learning project with a Non-Disclosure Agreement. Implemented several models (Linear Regression, LSTM, CNN) on time series data provided by a client for analysis to drive insight into the expected performance of the firm. [LINK](https://www.ischool.berkeley.edu/projects/2023/predicting-lifetime-value-users-using-machine-learning)
+
+### Implementation of NoSQL Databases in the Food Delivery Business
+For the final project for Fundamentals of Data Engineering, we presented the use case of implementing NoSQL databases in the food delivery industry. We highlighted the benefits of incorporating tools such as Redis and MongoDB over traditional databases and we showcased Neo4J algorithms, such as Louvain Modularity, to demonstrate how it can help plan future delivery routes. [LINK](https://www.ischool.berkeley.edu/projects/2023/implementation-nosql-acme-gourmet-meals)
 
 A data-driven personal website
 ======
